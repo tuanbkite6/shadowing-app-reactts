@@ -10,10 +10,10 @@ Welcome to the **Shadowing Language Learning App**, a React-based web applicatio
 - ⚡ **Fast & Scalable**: Built with React, ensuring smooth performance.
 
 ## 🛠 Tech Stack
-- **Frontend**: React, React Router, Tailwind CSS
+- **Frontend**: React, React Router, Mantine, Storybook for component testing
 - **State Management**: React Context API (or Redux if needed)
-- **Backend (Future Plans)**: Node.js, Express, MongoDB (for user progress tracking)
-- **Authentication (Future Plans)**: Firebase/Auth0
+- **Backend (Future Plans)**: Java Spring, AWS DynamoDB,AWS EC2,AWS lambda, MongoDB (for user progress tracking)
+- **Authentication (Future Plans)**: Cognito AWS
 
 ## 🚀 Getting Started
 
