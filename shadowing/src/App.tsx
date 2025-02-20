@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
+import { BrowserRouter } from 'react-router-dom';
+import { Layout } from './layout/layout';
 
 function App() {
   return (
-    <div className="App">
-   <h1> Hello, React with Typescriptasdas</h1>
-    </div>
+  <BrowserRouter>
+  <Layout/>
+  </BrowserRouter>
   );
 }
 
